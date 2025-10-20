@@ -1,0 +1,11 @@
+[
+    {
+        "caption": "Selection",
+        "id": "selection",
+        "children":
+        [
+       		{"caption":"-"},
+            { "command": "selections_copy_to_new_files", "caption": "Copy To New Files…"}
+        ]
+    }
+]
