@@ -17,7 +17,7 @@ Download or clone the contents of this repository to a folder named exactly as t
 
 ## Source-code
 
-https://github.com/titoBouzout/SelectionsToFiles
+https://github.com/dtoader/SelectionsToFiles
 
 ## Forum Thread
 
